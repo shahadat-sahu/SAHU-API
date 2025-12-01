@@ -1,5 +1,6 @@
 {
   "anime_video": "https://web-production-0e801.up.railway.app/video",
   "prompt": "https://sahu-prompt-api.onrender.com/prompt",
+  "ai": "https://mahbub-ullash.cyberbot.top/api/deepai?api_key=mahbub_ullash&query=",
   "prompt_cyberbot": "https://sahu-prompt-api.cyberbot.top/prompt"
 }
