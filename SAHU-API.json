@@ -2,5 +2,6 @@
   "anime_video": "http://2.56.246.119:30487/video",
   "prompt": "https://sahu-prompt-api.cyberbot.top/prompt",
   "ai": "https://mahbub-ullash.cyberbot.top/api/deepai?api_key=mahbub_ullash&query=",
-  "4k": "https://mahbub-ullash.cyberbot.top/api/enhance"
+  "4k": "https://mahbub-ullash.cyberbot.top/api/enhance",
+  "quize":, "http://2.56.246.119:30487/"
 }
