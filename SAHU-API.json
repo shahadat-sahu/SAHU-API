@@ -1,7 +1,7 @@
 {
   "anime_video": "https://anime-api-by-sahu.vercel.app/video",
   "prompt": "https://sahu-prompt-api.cyberbot.top/prompt",
-  "ai": "https://mahbub-ullash.cyberbot.top/api/deepai?api_key=mahbub_ullash&query=",
+  "ai": "https://mahbub-ullash.cyberbot.top/api/deepai?query=Hello%20AI",
   "4k": "https://mahbub-ullash.cyberbot.top/api/enhance",
   "quize": "https://quiz-api-cyber-bot.vercel.app/quize",
   "animate": "https://video-generator-api.vercel.app/animate"
